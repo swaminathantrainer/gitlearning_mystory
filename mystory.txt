@@ -7,3 +7,4 @@ electronic typesetting, remaining essentially unchanged. It was popularised in t
 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
 and more recently with desktop publishing software like Aldus PageMaker 
 including versions of Lorem Ipsum. Hello World. This is a new change made in feature 2.
+This is a feature 1 addition.
